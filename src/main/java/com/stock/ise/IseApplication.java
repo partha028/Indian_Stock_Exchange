@@ -10,6 +10,7 @@ public class IseApplication {
 		SpringApplication.run(IseApplication.class, args);
 		System.out.println("Final Branch Testing");
 		System.out.println("Testing Jenkins integration version 3");
+		System.out.println("last test");
 	}
 
 }
